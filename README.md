@@ -2,4 +2,4 @@
 notes on Asynchronous Javascript
 
 
-[Event loop](imgs\Screenshot 2026-02-10 190404.jpg)
+![Event Loop](/imgs/Screenshot%202026-02-10%20190404.jpg)
