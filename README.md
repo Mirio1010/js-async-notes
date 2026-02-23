@@ -4,7 +4,17 @@
 
 This project is a personal collection of notes and code examples focused on asynchronous JavaScript. It includes different ways to handle async operations, such as callbacks, promises, and more. The goal is to have a reference I can revisit in the future to review and learn from real async code examples.
 
+
 Feel free to explore the code in the `async-code-examples/` folder to see how async JavaScript works in practice!
+
+---
+
+## Helpful Video References
+
+Here are some YouTube videos that helped me understand asynchronous JavaScript:
+
+- [Async JavaScript - JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=QSqc6MMS6Fk&pp=ygUQYXN5bmMgamF2YXNjcmlwdA%3D%3D)
+- [JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=eiC58R16hb8&pp=ygUQYXN5bmMgamF2YXNjcmlwdA%3D%3D)
 
 ---
 
